@@ -25,7 +25,7 @@ https://github.com/TheMeansCreator/Airdrops/blob/main/Airdrops/MeansOwnersTop100
 5 - Privileged addresses (such as project members) and free mints were removed from the previous file
 
 
-6 - 22 lucky winners were selected by using command line "shuf -n22 meansSorted.txt > meansWinners.txt" resulting in file
+6 - Top 22 holders were selected resulting in file
 
 https://github.com/TheMeansCreator/Airdrops/blob/main/Airdrops/MeansOwners22WinnersAddresses.txt
 
