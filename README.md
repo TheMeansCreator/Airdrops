@@ -29,5 +29,5 @@ https://github.com/TheMeansCreator/Airdrops/blob/main/Airdrops/MeansOwnersTop100
 
 https://github.com/TheMeansCreator/Airdrops/blob/main/Airdrops/MeansOwners22WinnersAddresses.txt
 
-
+7 - Nakamoto Trustless Card (Black Metal Edition) NFTs will be dropped to the previous 22 addresses during Thursday 26th January 2023. Watch your wallets!
 
