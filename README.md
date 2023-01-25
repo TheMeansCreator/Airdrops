@@ -7,7 +7,7 @@ The Means Aidrops
 Free drop to Top #22 "Means" and "What Do You Mean?" collection hodlers in appreciation of their joining The Means' journey.
 
 
-1 - A snapshot of The Means Creator collections holders was taken by identifying top holders at OpenSea's Analytics tabs
+1 - A snapshot of The Means Creator collections holders was taken by identifying top holders on OpenSea's Analytics tabs
 
 https://opensea.io/collection/themeans/analytics
 
